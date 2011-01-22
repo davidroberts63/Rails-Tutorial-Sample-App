@@ -16,6 +16,7 @@ group :test do
   gem 'spork'
 	gem 'rspec', '2.3.0'
 	gem 'webrat', '0.7.1'
+	gem 'factory_girl_rails', '1.0'
 end
 
 # Use unicorn as the web server
